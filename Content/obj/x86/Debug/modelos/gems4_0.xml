@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\modelos\gems4.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>blend_root</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 NaN NaN NaN NaN</Transform>
+        <Positions />
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>PrincessCut</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>16.2172222 -0.322422326 -16.2171879 16.2171879 -0.322422326 16.2172184 11.9171591 -2.71284318 6.88037968 11.9171591 -2.71193433 -6.8803854 -6.88037968 -2.71193433 -11.9171591 -16.2172184 -0.322422326 -16.2172222 6.8803854 -2.71284318 -11.9171591 -11.9171534 -2.71284318 -6.8803854 -11.9171534 -2.71193433 6.88037968 -16.2172184 -0.322422326 16.217186 -6.88037968 -2.71284318 11.9171534 6.8803854 -2.71193433 11.9171858 7.0322485 -3.52243543 7.03224468 9.945113 -3.52243543 -2.73466117E-06 7.0322485 -3.52243543 -7.0322485 2.73466117E-06 -3.52243543 -9.945113 -7.03224468 -3.52243543 -7.0322485 -9.945109 -3.52243543 -2.73466117E-06 -7.03224468 -3.52243543 7.03224468 2.73466117E-06 -3.52243543 9.945109 11.839118 7.61955738 -2.73466117E-06 -11.8391428 7.61955738 -2.73466117E-06 2.73466117E-06 7.61955738 11.8391428 2.73466117E-06 7.61955738 -11.839118 2.73466117E-06 15.7568541 -2.73466117E-06</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 2 0 3 0 5 4 0 4 6 9 8 7 9 7 5 1 11 10 1 10 9 2 13 12 3 13 2 3 14 13 6 15 14 4 15 6 4 16 15 7 17 16 8 17 7 8 18 17 10 19 18 11 19 10 11 12 19 11 1 2 11 2 12 3 0 6 3 6 14 4 5 7 4 7 16 8 9 10 8 10 18 13 14 12 16 14 15 16 17 18 19 12 18 14 16 18 14 18 12 0 1 20 9 5 21 1 9 22 5 0 23 1 22 24 1 24 20 22 9 24 21 24 9 20 24 0 23 0 24 5 23 24 5 24 21</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.637765765 -0.431824178 -0.6377952 0.613428056 -0.2714583 0.7416309 0.31341362 -0.947143435 0.06849201 0.277058423 -0.957345366 -0.08202715 -0.06848447 -0.9471051 -0.3135311 -0.7063213 -0.0469458438 -0.706333041 0.0820381939 -0.957352638 -0.277030051 -0.313413084 -0.9471436 -0.06849211 -0.2770585 -0.957345366 0.08202716 -0.7416298 -0.271459639 0.613428831 -0.06849261 -0.9471433 0.3134139 0.0820268244 -0.957345366 0.277058482 0.06703094 -0.9954936 0.06707767 0.179557368 -0.9837475 -3.423043E-05 0.0574812926 -0.9966928 -0.0574410036 -3.42266649E-05 -0.9837475 -0.179557383 -0.06703101 -0.995493531 -0.0670780241 -0.1795575 -0.9837475 3.42266649E-05 -0.05748133 -0.9966927 0.05744104 3.38915124E-05 -0.983747661 0.179556534 0.6882303 0.7254923 5.349454E-07 -0.688230038 0.725492537 1.61003058E-07 -4.830093E-07 0.7254922 0.688230455 7.115293E-07 0.7254923 -0.6882303 4.473827E-07 1 -2.00390161E-07</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Mat1Tex0</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\modelos\gems4.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0 1 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 1 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="SpecularPower" Type="float">4.7</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

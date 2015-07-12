@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\modelos\disparo0.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>blend_root</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 NaN NaN NaN NaN</Transform>
+        <Positions />
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>Cylinder</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>7.9999404 0.0309778489 -1.52049472E-06 8.002752 -0.6954087 0.7263904 8.003485 -0.8843193 -0.466369569 -7.9999404 -0.0309777986 -1.228411E-07 -7.99639559 -0.9462751 -0.466368139 -7.99712753 -0.7573645 0.726391852 7.999318 0.191680714 -1.01462555 -8.000563 0.129725 -1.01462412 7.99601126 1.04559433 -0.160705477 -8.00387 0.9836386 -0.160696089 7.99813461 0.497342318 0.915302455 -8.001745 0.435386658 0.9153039</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 5 4 3 6 2 0 4 7 3 8 6 0 7 9 3 10 8 0 9 11 3 0 1 10 11 5 3 4 5 1 2 4 1 7 4 2 6 7 2 9 7 6 8 9 6 11 9 8 10 11 8 10 1 5 11 10 5</Indices>
+            <Vertices>
+              <PositionIndices>0 1 2 3 4 5 6 7 8 9 10 11</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0.9999925 0.00387210748 1.96304669E-07 0.6276957 -0.6638936 0.4065015 0.6274092 -0.5900862 -0.508090436 -0.9999925 -0.00387255033 3.41872038E-07 -0.622174442 -0.761738241 -0.180703685 -0.6235417 -0.4089188 0.666319132 0.6239536 0.3025466 -0.720518947 -0.6248729 -0.06520584 -0.7779987 0.6221031 0.7804137 0.06278715 -0.627905965 0.71809417 -0.300124764 0.624415159 0.18312265 0.759323239 -0.6270818 0.5056654 0.5925123</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Mat1Tex0</Name>
+      <Identity>
+        <SourceFilename>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\modelos\disparo0.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 0</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.870588243 0.854901969 0.211764708</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="SpecularPower" Type="float">9.6</Data>
+      </OpaqueData>
+    </Resource>
+  </Resources>
+</XnaContent>

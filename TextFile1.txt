@@ -1,0 +1,5 @@
+﻿0-presentacion
+1-opciones
+2-cargando
+3-juego
+4-pausa

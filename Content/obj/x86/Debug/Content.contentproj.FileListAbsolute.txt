@@ -1,0 +1,2 @@
+C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\sound\sonidos.xml

@@ -1,0 +1,735 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fuentes\SpriteFont1.spritefont</Source>
+      <Name>fuentes\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fuentes\SpriteFont1.xnb</Output>
+      <Time>2010-08-17T11:07:42.023631-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fuentes\presentacion.spritefont</Source>
+      <Name>fuentes\presentacion</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fuentes\presentacion.xnb</Output>
+      <Time>2010-08-17T11:33:04.0431704-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen0.png</Source>
+      <Name>graphics\explos\screen0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen0.xnb</Output>
+      <Time>2010-07-20T17:41:54.6384206-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen1.png</Source>
+      <Name>graphics\explos\screen1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen1.xnb</Output>
+      <Time>2010-07-20T17:41:54.6424209-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen10.png</Source>
+      <Name>graphics\explos\screen10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen10.xnb</Output>
+      <Time>2010-07-20T17:41:54.6824232-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen11.png</Source>
+      <Name>graphics\explos\screen11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen11.xnb</Output>
+      <Time>2010-07-20T17:41:54.6884235-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen12.png</Source>
+      <Name>graphics\explos\screen12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen12.xnb</Output>
+      <Time>2010-07-20T17:41:54.6944238-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen13.png</Source>
+      <Name>graphics\explos\screen13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen13.xnb</Output>
+      <Time>2010-07-20T17:41:54.7014242-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen14.png</Source>
+      <Name>graphics\explos\screen14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen14.xnb</Output>
+      <Time>2010-07-20T17:41:54.7094247-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen15.png</Source>
+      <Name>graphics\explos\screen15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen15.xnb</Output>
+      <Time>2010-07-20T17:41:54.7164251-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen16.png</Source>
+      <Name>graphics\explos\screen16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen16.xnb</Output>
+      <Time>2010-07-20T17:41:54.7234255-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen17.png</Source>
+      <Name>graphics\explos\screen17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen17.xnb</Output>
+      <Time>2010-07-20T17:41:54.7294258-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen18.png</Source>
+      <Name>graphics\explos\screen18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen18.xnb</Output>
+      <Time>2010-07-20T17:41:54.7364262-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen19.png</Source>
+      <Name>graphics\explos\screen19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen19.xnb</Output>
+      <Time>2010-07-20T17:41:54.7424266-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen2.png</Source>
+      <Name>graphics\explos\screen2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen2.xnb</Output>
+      <Time>2010-07-20T17:41:54.6464211-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen20.png</Source>
+      <Name>graphics\explos\screen20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen20.xnb</Output>
+      <Time>2010-07-20T17:41:54.7774286-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen21.png</Source>
+      <Name>graphics\explos\screen21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen21.xnb</Output>
+      <Time>2010-07-20T17:41:54.785429-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen3.png</Source>
+      <Name>graphics\explos\screen3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen3.xnb</Output>
+      <Time>2010-07-20T17:41:54.6504213-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen4.png</Source>
+      <Name>graphics\explos\screen4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen4.xnb</Output>
+      <Time>2010-07-20T17:41:54.6544216-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen5.png</Source>
+      <Name>graphics\explos\screen5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen5.xnb</Output>
+      <Time>2010-07-20T17:41:54.6594218-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen6.png</Source>
+      <Name>graphics\explos\screen6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen6.xnb</Output>
+      <Time>2010-07-20T17:41:54.6634221-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen7.png</Source>
+      <Name>graphics\explos\screen7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen7.xnb</Output>
+      <Time>2010-07-20T17:41:54.6684224-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen8.png</Source>
+      <Name>graphics\explos\screen8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen8.xnb</Output>
+      <Time>2010-07-20T17:41:54.6734226-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\explos\screen9.png</Source>
+      <Name>graphics\explos\screen9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\explos\screen9.xnb</Output>
+      <Time>2010-07-20T17:41:54.6784229-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\est.png</Source>
+      <Name>graphics\est</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\est.xnb</Output>
+      <Time>2010-07-25T21:30:51.1240794-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\barra.png</Source>
+      <Name>graphics\barra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\barra.xnb</Output>
+      <Time>2010-08-18T18:24:37.8055356-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\sc1.png</Source>
+      <Name>graphics\sc1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\sc1.xnb</Output>
+      <Time>2010-08-09T21:35:51.3329696-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\sc2.png</Source>
+      <Name>graphics\sc2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\sc2.xnb</Output>
+      <Time>2010-08-09T21:35:46.917717-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\sc3.png</Source>
+      <Name>graphics\sc3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\sc3.xnb</Output>
+      <Time>2010-08-09T21:41:24.2890136-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\sc4.png</Source>
+      <Name>graphics\sc4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\sc4.xnb</Output>
+      <Time>2010-08-09T21:35:56.2342499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\sc5.png</Source>
+      <Name>graphics\sc5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\sc5.xnb</Output>
+      <Time>2010-08-16T12:33:32.7371318-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\sc6.png</Source>
+      <Name>graphics\sc6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\sc6.xnb</Output>
+      <Time>2010-08-16T12:30:26.5194808-05:00</Time>
+    </Item>
+    <Item>
+      <Source>graphics\borde.png</Source>
+      <Name>graphics\borde</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\graphics\borde.xnb</Output>
+      <Time>2010-08-18T18:35:53.0733228-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\rockshit.mp3</Source>
+      <Name>sound\rockshit</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\rockshit.xnb</Output>
+      <Extra>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\rockshit.wma</Extra>
+      <Time>2010-08-13T00:02:41.180314-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\gems1.fbx</Source>
+      <Name>modelos\gems1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\gems1.xnb</Output>
+      <Time>2010-08-15T23:37:15.6431112-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\gems1_0.xml</Key>
+        <Value>2011-08-08T16:35:39.6070014-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\gems2.fbx</Source>
+      <Name>modelos\gems2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\gems2.xnb</Output>
+      <Time>2010-08-15T23:51:39.114499-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\gems2_0.xml</Key>
+        <Value>2011-08-08T16:35:39.6780054-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\gems3.fbx</Source>
+      <Name>modelos\gems3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\gems3.xnb</Output>
+      <Time>2010-08-15T23:52:33.9106331-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\gems3_0.xml</Key>
+        <Value>2011-08-08T16:35:39.7430092-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\gems4.fbx</Source>
+      <Name>modelos\gems4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\gems4.xnb</Output>
+      <Time>2010-08-15T23:53:19.6652502-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\gems4_0.xml</Key>
+        <Value>2011-08-08T16:35:39.8050127-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\nave2.fbx</Source>
+      <Name>modelos\nave2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\nave2.xnb</Output>
+      <Time>2010-08-19T09:03:22.4782401-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\nave2_0.xml</Key>
+        <Value>2011-08-08T16:35:39.9370203-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\nave3.fbx</Source>
+      <Name>modelos\nave3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\nave3.xnb</Output>
+      <Time>2010-08-17T11:05:40.6549792-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\nave3_0.xml</Key>
+        <Value>2011-08-08T16:35:40.1330315-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\nave4.fbx</Source>
+      <Name>modelos\nave4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\nave4.xnb</Output>
+      <Time>2010-08-15T23:11:46.8916717-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\nave4_0.xml</Key>
+        <Value>2011-08-08T16:35:40.248038-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\nave5.fbx</Source>
+      <Name>modelos\nave5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\nave5.xnb</Output>
+      <Time>2010-08-15T23:06:25.9463146-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\nave5_0.xml</Key>
+        <Value>2011-08-08T16:35:40.6700622-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\lightning.fbx</Source>
+      <Name>modelos\lightning</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\lightning.xnb</Output>
+      <Time>2010-08-13T19:01:40.3246865-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\lightning_0.xml</Key>
+        <Value>2011-08-08T16:35:40.8390719-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\nave1.fbx</Source>
+      <Name>modelos\nave1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\nave1.xnb</Output>
+      <Time>2010-08-16T18:27:25.920103-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\nave1_0.xml</Key>
+        <Value>2011-08-08T16:35:41.0150819-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\nave6.fbx</Source>
+      <Name>modelos\nave6</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\nave6.xnb</Output>
+      <Time>2010-08-16T12:07:04.7553044-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\nave6_0.xml</Key>
+        <Value>2011-08-08T16:35:41.1060871-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\disparo0.fbx</Source>
+      <Name>modelos\disparo0</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\disparo0.xnb</Output>
+      <Time>2010-08-15T23:31:10.2292108-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\disparo0_0.xml</Key>
+        <Value>2011-08-08T16:35:41.1640904-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\disparo1.fbx</Source>
+      <Name>modelos\disparo1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\disparo1.xnb</Output>
+      <Time>2010-08-19T12:01:05.4122024-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\disparo1_0.xml</Key>
+        <Value>2011-08-08T16:35:41.2170935-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\disparo3.fbx</Source>
+      <Name>modelos\disparo3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\disparo3.xnb</Output>
+      <Time>2010-08-19T11:58:34.889593-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\disparo3_0.xml</Key>
+        <Value>2011-08-08T16:35:41.2810971-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\disparo2.fbx</Source>
+      <Name>modelos\disparo2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\disparo2.xnb</Output>
+      <Time>2010-08-19T11:54:19.3999798-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\disparo2_0.xml</Key>
+        <Value>2011-08-08T16:35:41.3431007-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>modelos\logo.fbx</Source>
+      <Name>modelos\logo</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\modelos\logo.xnb</Output>
+      <Time>2010-08-18T10:59:42.7095984-05:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\modelos\logo_0.xml</Key>
+        <Value>2011-08-08T16:35:41.610116-05:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\disparo.wav</Source>
+      <Name>sound\sonidos\disparo</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\disparo.xnb</Output>
+      <Time>2010-08-18T10:09:16.1465605-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\disparo3.wav</Source>
+      <Name>sound\sonidos\disparo3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\disparo3.xnb</Output>
+      <Time>2010-08-18T10:09:16.171562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\explosion.wav</Source>
+      <Name>sound\sonidos\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\explosion.xnb</Output>
+      <Time>2010-08-18T10:09:16.1655616-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\explosion2.wav</Source>
+      <Name>sound\sonidos\explosion2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\explosion2.xnb</Output>
+      <Time>2010-08-18T10:09:16.1665617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\item.wav</Source>
+      <Name>sound\sonidos\item</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\item.xnb</Output>
+      <Time>2010-08-18T10:09:16.1675617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\disparo2.wav</Source>
+      <Name>sound\sonidos\disparo2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\disparo2.xnb</Output>
+      <Time>2010-08-18T11:36:11.0047617-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sound\sonidos\disparo4.wav</Source>
+      <Name>sound\sonidos\disparo4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sound\sonidos\disparo4.xnb</Output>
+      <Time>2010-08-18T11:35:38.3688951-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\gems1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\gems1_0.xml</Output>
+      <Time>2010-08-15T23:37:15.6431112-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\gems2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\gems2_0.xml</Output>
+      <Time>2010-08-15T23:51:39.114499-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\gems3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\gems3_0.xml</Output>
+      <Time>2010-08-15T23:52:33.9106331-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\gems4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\gems4_0.xml</Output>
+      <Time>2010-08-15T23:53:19.6652502-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\nave2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\nave2_0.xml</Output>
+      <Time>2010-08-19T09:03:22.4782401-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\nave3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\nave3_0.xml</Output>
+      <Time>2010-08-17T11:05:40.6549792-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\nave4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\nave4_0.xml</Output>
+      <Time>2010-08-15T23:11:46.8916717-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\nave5.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\nave5_0.xml</Output>
+      <Time>2010-08-15T23:06:25.9463146-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\lightning.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\lightning_0.xml</Output>
+      <Time>2010-08-13T19:01:40.3246865-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\nave1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\nave1_0.xml</Output>
+      <Time>2010-08-16T18:27:25.920103-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\nave6.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\nave6_0.xml</Output>
+      <Time>2010-08-16T12:07:04.7553044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\disparo0.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\disparo0_0.xml</Output>
+      <Time>2010-08-15T23:31:10.2292108-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\disparo1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\disparo1_0.xml</Output>
+      <Time>2010-08-19T12:01:05.4122024-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\disparo3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\disparo3_0.xml</Output>
+      <Time>2010-08-19T11:58:34.889593-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\disparo2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\disparo2_0.xml</Output>
+      <Time>2010-08-19T11:54:19.3999798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>modelos\logo.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\modelos\logo_0.xml</Output>
+      <Time>2010-08-18T10:59:42.7095984-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Orlando\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-07-18T11:21:15.3560857-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
